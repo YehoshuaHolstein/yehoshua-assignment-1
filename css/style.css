@@ -8,12 +8,12 @@ h1 {
 }
 
 .section-1 {
-    background-color: rgb(23, 0, 128);
+    background-color: #4915f8;
     color: white;
     display: flex;
     flex-direction: row;
     align-items:center;
-    padding: 20px;
+    padding: 10px 30px;
 }
 
 .section-2 {
