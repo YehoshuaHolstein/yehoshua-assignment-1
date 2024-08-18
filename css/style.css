@@ -13,16 +13,23 @@ h1 {
     display: flex;
     flex-direction: row;
     align-items:center;
-    padding: 10px 30px;
+    
 }
 
 .section-2 {
-    background-color:  rgb(23, 0, 128);
+    background-color:  #4915f8;
     color: white;
     display: flex;
     flex-direction: row;
     align-items:center;
-    padding: 10px;
+    padding: 80px;
+}
+
+.section-3 {
+    background-color:  #4915f8;
+    color: white;
+    display: flex;
+    
 }
 
 input[type='button'] {
@@ -31,6 +38,7 @@ input[type='button'] {
     font-weight: bold;
     border: 0px;
     border-radius: 25px;
+
 }
 
 a:visited {
@@ -57,6 +65,16 @@ a:hover {
 .headline-4 {
     font-size: 10px;
     padding: 15px 0px 0px 0PX;
+}
+
+.headline-5 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.headline-6 {
+    font-size: 20px;
+    font-weight: bold;
 }
 
 
